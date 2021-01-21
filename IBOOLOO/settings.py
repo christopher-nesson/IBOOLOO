@@ -175,5 +175,5 @@ CORS_ORIGIN_ALLOW_ALL = True
 # qq.com pop.qq.com smtp.qq.com SMTP服务器需要身份验证。
 EMAIL_HOST = 'pop.qq.com'
 EMAIL_POST = '587'
-EMAIL_HOST_USER = 'christopher.nesson@foxmail.com'
+# EMAIL_HOST_USER = '邮箱地址'
 EMAIL_HOST_PASSWORD = 'jlendtnilgfdebbc'
