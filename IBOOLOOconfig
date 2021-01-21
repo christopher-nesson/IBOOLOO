@@ -1,0 +1,14 @@
+djangorestframework
+markdown
+django-filter
+pillow
+django-guardian
+PyYAML
+uritemplate
+Pygments
+six
+django-cors-headers
+coreapi-cli
+djangorestframework-simplejwt
+PyJWT
+DjangoUeditor
